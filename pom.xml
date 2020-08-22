@@ -22,6 +22,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+	
+  <sonar.projectKey>niknav_productMShacknew</sonar.projectKey>
+  <sonar.organization>nik</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>fb85120359f12263d0e152ada8d231341d30e0f3</sonar.login>
 	</properties>
 <dependencyManagement>
 		<dependencies>
